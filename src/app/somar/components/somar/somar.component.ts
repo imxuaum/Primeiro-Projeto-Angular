@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { SomarService } from '../../services';
 
 @Component({
   selector: 'app-somar',
